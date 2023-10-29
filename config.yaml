@@ -1,0 +1,9 @@
+FILE_NAMES:
+  DATA:
+    RAW:
+      2019: 'tedsd_puf_2019.csv'
+      2020: 'tedsd_puf_2020.csv'
+
+FILE_SEP:
+  tedsd_puf_2019: ','
+  tedsd_puf_2020: ','
